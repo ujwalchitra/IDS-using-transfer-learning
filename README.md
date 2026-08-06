@@ -4,6 +4,10 @@ A lightweight intrusion detection system (IDS) for identifying malicious network
 
 The repository includes PyTorch implementations of three hybrid neural-network architectures, data preparation utilities, training and evaluation scripts, result visualizations, and a Streamlit demonstration dashboard.
 
+## Research paper
+
+Read the accompanying paper: [IoT IDS Using Transfer Learning](https://drive.google.com/file/d/1Oe2dIo1aryLaqWyJr2mFKvzORE-c1iF0/view?usp=sharing)
+
 ## Highlights
 
 - Binary classification of benign and malicious network flows
