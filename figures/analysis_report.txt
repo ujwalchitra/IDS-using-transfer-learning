@@ -1,0 +1,5 @@
+Transfer Learning Analysis Report
+==================================================
+Best Model: 1DCNN_BiLSTM (Accuracy: 0.995)
+Most Efficient: 1DCNN_BiLSTM (33,762 params)
+Fastest: BERT_CNN_LSTM (7.1 minutes)

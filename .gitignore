@@ -1,0 +1,46 @@
+# Python environments and caches
+venv/
+.venv/
+env/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+
+# Editor and operating-system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Raw, processed, and sequence datasets
+01_raw_data/
+02_processed_data/
+03_sequence_data/
+MachineLearningCVE/
+UT_2024/
+*.csv
+*.parquet
+*.feather
+*.npy
+*.npz
+
+# Trained models and generated experiment outputs
+04_models/
+05_results/
+saved_models/
+results/
+*.h5
+*.keras
+*.pkl
+*.joblib
+*.pt
+*.pth
+*.onnx
+
+# Temporary and compiled files
+temp*
+*.tmp
+*.log
+*.exe
+

@@ -1,0 +1,16 @@
+IoT INTRUSION DETECTION - DATASET REPORT
+==================================================
+
+CLASS DISTRIBUTION:
+------------------------------
+BENIGN           529,918 ( 48.7%)
+DDoS             128,027 ( 11.8%)
+PortScan         158,930 ( 14.6%)
+DoS              252,661 ( 23.2%)
+BruteForce        13,835 (  1.3%)
+WebAttacks         2,180 (  0.2%)
+Bot                1,966 (  0.2%)
+
+Total samples: 1,087,517
+Total features: 79
+File size: 376.0 MB
